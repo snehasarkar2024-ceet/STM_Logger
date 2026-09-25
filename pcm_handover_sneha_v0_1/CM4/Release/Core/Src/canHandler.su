@@ -1,0 +1,8 @@
+../Core/Src/canHandler.c:17:6:processTmcmMsg	0	static
+../Core/Src/canHandler.c:22:6:processCmcmMsg	0	static
+../Core/Src/canHandler.c:27:6:processBmsMsg	0	static
+../Core/Src/canHandler.c:32:6:processDcdc12vPpmMsg	0	static
+../Core/Src/canHandler.c:37:6:processDcDc48vAcMsg	0	static
+../Core/Src/canHandler.c:43:9:canTransmit	24	static
+../Core/Src/canHandler.c:77:6:canReceive	0	static
+../Core/Src/canHandler.c:128:6:canInit	72	static

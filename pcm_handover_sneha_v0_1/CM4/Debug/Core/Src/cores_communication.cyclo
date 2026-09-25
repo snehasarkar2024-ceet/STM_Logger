@@ -1,0 +1,7 @@
+../Core/Src/cores_communication.c:54:6:core_share_init	1
+../Core/Src/cores_communication.c:69:5:put_to_m4	4
+../Core/Src/cores_communication.c:100:5:get_from_m4	4
+../Core/Src/cores_communication.c:133:5:m4_has_data	2
+../Core/Src/cores_communication.c:157:5:put_to_m7	4
+../Core/Src/cores_communication.c:188:5:get_from_m7	4
+../Core/Src/cores_communication.c:221:5:m7_has_data	2
